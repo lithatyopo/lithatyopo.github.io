@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Lithakazi Nolita Tyopo
-description: "Hi I'm Lithakazi, and I'm an aspiring Data Engineer, but currently a Cisco UC/Voice Engineer.  My portfolio focuses on interesting projects I've recently undertaken, in the bid to add Data Science on my Skillset, on the bid of getting into Data Engineering soon. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Lithakazi, and I'm an aspiring Data Engineer, but currently a Cisco UC/Voice Engineer.  My portfolio focuses on interesting projects I've recently undertaken, in the bid to add Data Science on my Skillset. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
